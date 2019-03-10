@@ -1,0 +1,6 @@
+C:\Users\olive\source\repos\OurLib\OurLib\bin\Debug\OurLib.dll
+C:\Users\olive\source\repos\OurLib\OurLib\bin\Debug\OurLib.pdb
+C:\Users\olive\source\repos\OurLib\OurLib\obj\Debug\OurLib.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\OurLib\OurLib\obj\Debug\OurLib.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\OurLib\OurLib\obj\Debug\OurLib.dll
+C:\Users\olive\source\repos\OurLib\OurLib\obj\Debug\OurLib.pdb

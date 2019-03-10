@@ -1,0 +1,10 @@
+C:\Users\olive\source\repos\OurLib\ourConsole\bin\Debug\ourConsole.exe.config
+C:\Users\olive\source\repos\OurLib\ourConsole\bin\Debug\ourConsole.exe
+C:\Users\olive\source\repos\OurLib\ourConsole\bin\Debug\ourConsole.pdb
+C:\Users\olive\source\repos\OurLib\ourConsole\bin\Debug\OurLib.dll
+C:\Users\olive\source\repos\OurLib\ourConsole\bin\Debug\OurLib.pdb
+C:\Users\olive\source\repos\OurLib\ourConsole\obj\Debug\ourConsole.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\OurLib\ourConsole\obj\Debug\ourConsole.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\OurLib\ourConsole\obj\Debug\ourConsole.csproj.CopyComplete
+C:\Users\olive\source\repos\OurLib\ourConsole\obj\Debug\ourConsole.exe
+C:\Users\olive\source\repos\OurLib\ourConsole\obj\Debug\ourConsole.pdb
